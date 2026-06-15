@@ -1,0 +1,13 @@
+# Dynamic Typing Example
+
+x = 10
+print("Value:", x)
+print("Type:", type(x))
+
+x = "Hello Python"
+print("Value:", x)
+print("Type:", type(x))
+
+x = 3.14
+print("Value:", x)
+print("Type:", type(x))
